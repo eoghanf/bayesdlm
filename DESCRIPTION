@@ -1,0 +1,12 @@
+Package: bayesdlm
+Type: Package
+Title: Fits Bayesian Dynamic Linear Models to Time Series
+Version: 0.1.0
+Authors@R: person("Eoghan", "Flanagan", email="eoghanflanagan@hotmail.com", role=c("aut", "cre"))
+Description: This package fits a Bayesian DLM model to time series data y with covariates x.
+License: GPL3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: matrixcalc
+Imports: mvtnorm
